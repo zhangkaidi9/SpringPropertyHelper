@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.zhangkaidi9.springpropertyhelper.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.zhangkaidi9.springpropertyhelper.MyBundle
 
 class MyApplicationService {
 
